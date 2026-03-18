@@ -4,7 +4,7 @@ Want to skip the boring early game? This simple datapack gives you an overpowere
 
 Made for **Minecraft Java Edition 1.21.10**.
 
-## The Stater Kit
+## The Starter Kit
 As soon as you spawn in, you will automatically receive:
 * **"I Cheat and I Don't Care" Pickaxe:** Pre-enchanted with Efficiency V, Unbreaking III, and Fire Aspect II.
 * **"The Backpack Mod":** 2 Shulker Shells so you can craft a Shulker Box immediately.
