@@ -1,0 +1,2 @@
+execute as @a store result score @s bizigus_cheaty_start_plus_diamond_count run clear @s diamond_block 0
+execute as @a[scores={bizigus_cheaty_start_plus_diamond_count=5..}] run function bizigus_cheaty_start_plus:trade_diamonds
